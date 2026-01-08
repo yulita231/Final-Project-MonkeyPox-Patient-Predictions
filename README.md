@@ -2,7 +2,8 @@
 
 ### 🏆 Context
 Final Project for **ITS Hackathon [2025]**.
-*Status: Participant*
+* Status: Participant*
+![Bukti Sertifikat](sertifikat_its.png)
 
 ## 📌 Problem Statement
 The spread of **Mpox (Monkeypox)** requires fast and accurate screening tools. However, early symptoms are often confused with other diseases, leading to delayed diagnosis and higher transmission rates.
